@@ -15,6 +15,7 @@ a {
 .box {
   width: 300px;
   height: 300px;
+<<<<<<< HEAD
   background: hotpink;
   margin: 50px;
   display: flex;
@@ -22,5 +23,12 @@ a {
   align-items: center;
   font: bold 30px/1 'arial';
   color: #fff; }
+=======
+  background: aqua;
+  margin: 50px;
+  text-align: center;
+  font: bold 30px/300px 'arial';
+  color: #000; }
+>>>>>>> 아쿠아박스
 
 /*# sourceMappingURL=style.css.map */
